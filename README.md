@@ -1,5 +1,12 @@
 ## Back-end Developer Test
 
+### Installation
+Clone this repo and run the command `npm i` to install all depedencies. Create a file called `.env` and copy the content of the `.env.example` file into it. Replace the keys with yours. You can refer to both the google and twitter Api documentation for more infomation.
+
+To start the bot use the command `npm start searchTweets <search parameter>`
+
+
+
 ### Devcenter Backend Developer Test I
 
 The purpose of this test is not only to quickly gauge an applicant's abilities with writing codes, but also their approach to development.
